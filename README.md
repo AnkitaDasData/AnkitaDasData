@@ -1,13 +1,40 @@
 Hi, I’m @AnkitaDasData
-
+I am building a profile to showcase my experience
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
 
-
+I am building a profile to showcase my experience
+I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
-○ Tableau Public - https://public.tableau.com/app/profile/ankita2033/vizzes
+○   Tableau Public - https://public.tableau.com/app/profile/ankita2033/vizzes
 
-○ Power BI - https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=drive_link
-https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=sharing
+○   Power BI -  https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=drive_link
+                https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=sharing
+    Power Automate
+    MS PL 300/900
+
+○   Excel
+
+○   PowerPoint
+
+○   SQL
+
+○   Alteryx
+
+○   Knime
+
+○   Python
+
+○   Google Cloud Platform - Google Colab - 
+
+○   AWS
+
+○   Azure
+
+○   SAS EG
+
+○   Snowflake
+
+○   DevOps
 
 
 <!---
