@@ -1,4 +1,7 @@
 Hi, I’m @AnkitaDasData
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 I am building a profile to showcase my experience
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
 
