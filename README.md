@@ -1,6 +1,6 @@
 Hi, I’m @AnkitaDasData
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+building+a+profile+to+showcase+my+skills;Please+have+patience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+building+a+profile+to+showcase;Please+have+patience)](https://git.io/typing-svg)
 
 I am building a profile to showcase my experience
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
