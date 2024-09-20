@@ -36,7 +36,8 @@ I am also trying to track my skill progress
 
 ○   DevOps
 
-Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) /n
+Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
 
 <!---
