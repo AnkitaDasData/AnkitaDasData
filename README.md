@@ -40,12 +40,19 @@ Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivativ
 
 ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
 
+Here is a program to parse ``"Hello, World!"`` (or any greeting of the form
+``"salutation, addressee!"``):
 
-from pyparsing import Word, alphas
-greet = Word(alphas) + "," + Word(alphas) + "!"
-hello = "Hello, World!"
-print(hello, "->", greet.parseString(hello))
+.. code:: python
 
+    from pyparsing import Word, alphas
+    greet = Word(alphas) + "," + Word(alphas) + "!"
+    hello = "Hello, World!"
+    print(hello, "->", greet.parseString(hello))
+
+The program outputs the following::
+
+    Hello, World! -> ['Hello', ',', 'World', '!']
 <!---
 AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
