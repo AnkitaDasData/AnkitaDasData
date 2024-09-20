@@ -5,16 +5,14 @@ I am building a profile to showcase my experience
 I am building a profile to showcase my experience
 I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
-○   Tableau Public - https://public.tableau.com/app/profile/ankita2033/vizzes
+○   Tableau Public -        https://public.tableau.com/app/profile/ankita2033/vizzes
 
-○   Power BI -  https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=drive_link
-                https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=sharing
+○   Power BI -              htps://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=drive_link
+                            https://drive.google.com/drive/folders/1yMX1cljC5ype96BaukQ6mWedCEFR8Zvs?usp=sharing
     Power Automate
     MS PL 300/900
 
-○   Excel
-
-○   PowerPoint
+○   Excel or PowerPoint -    https://drive.google.com/drive/folders/1vFHRWD99ywBC-zmoDKCJdEmOPKWKJ1TZ?usp=sharing
 
 ○   SQL
 
