@@ -54,6 +54,13 @@ The program outputs the following::
 
     Hello, World! -> ['Hello', ',', 'World', '!']
 
+```sql
+SELECT first_name, last_name, email
+FROM employees
+WHERE department = 'Sales'
+ORDER BY last_name ASC;
+```
+
 <!---
 AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
