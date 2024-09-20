@@ -40,7 +40,7 @@ Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivativ
 
 ![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
 
-Here is a program to parse ``"Hello, World!"`` (or any greeting of the form
+Here is a program to parse `"Hello, World!"` (or any greeting of the form
 ``"salutation, addressee!"``):
 
 .. code:: python
