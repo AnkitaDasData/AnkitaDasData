@@ -36,8 +36,9 @@ I am also trying to track my skill progress
 
 ○   DevOps
 
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-Creative Commons License
+Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+![image](https://github.com/user-attachments/assets/95a39b19-6afa-45f5-a038-2780c7e21937)
+
 <!---
 AnkitaDasData/AnkitaDasData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
