@@ -7,7 +7,14 @@ Hi, I’m @AnkitaDasData
 I am building a profile to showcase my experience
 I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
-○   Tableau Public -        [https://public.tableau.com/app/profile/ankitadasdata/vizzes(https://public.tableau.com/app/profile/ankitadasdata/vizzes)]
+|SKILL|LINK|CONTENTS|
+|Tableau|[https://public.tableau.com/app/profile/ankitadasdata/vizzes(https://public.tableau.com/app/profile/ankitadasdata/vizzes)]|---|
+|Profession| python-developer|---|
+|Article| About markup in the README|---|
+
+
+
+○   Tableau Public -        
 
 ○   Power BI -              
                             
