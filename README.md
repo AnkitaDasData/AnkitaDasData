@@ -9,10 +9,12 @@ I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
 
 
-|SKILL|LINK|CONTENTS|
-|Tableau|[https://public.tableau.com/app/profile/ankitadasdata/vizzes(https://public.tableau.com/app/profile/ankitadasdata/vizzes)]|---|
-|Profession| python-developer|---|
-|Article| About markup in the README|---|
+| SKILL      | LINK                                                                                       | CONTENTS |
+|------------|---------------------------------------------------------------------------------------------|----------|
+| Tableau    | [Tableau Profile](https://public.tableau.com/app/profile/ankitadasdata/vizzes)              | ---      |
+| Profession | python-developer                                                                            | ---      |
+| Article    | About markup in the README                                                                  | ---      |
+
 
 
 
