@@ -11,13 +11,6 @@ I am also trying to track my skill progress
 
 | **SKILL**                | **LINK**                                                                                       | **Actual Link**                                                               | **CONTENTS**                                    |
 |--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------|
-| **LinkedIn**              | [LinkedIn Profile](https://www.linkedin.com/in/ankita-das-data/)                               | https://www.linkedin.com/in/ankita-das-data/                                  | ---                                            |
-| **Coursera**              | [Coursera Profile](https://www.coursera.org/learner/ankitadasdata)                             | https://www.coursera.org/learner/ankitadasdata                                | ---                                            |
-| **Udemy**                 | [Udemy Profile](https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/)              | https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/              | ---                                            |
-| **edX**                   | [edX Profile](https://home.edx.org/)                                                          | https://home.edx.org/                                                         | ---                                            |
-
-| **SKILL**                | **LINK**                                                                                       | **Actual Link**                                                               | **CONTENTS**                                    |
-|--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------|
 | **GitHub Profile**        | [GitHub](https://github.com/AnkitaDasData)                                                     | https://github.com/AnkitaDasData                                              | Problem/Approach/ModelUsed/Value               |
 | **DSML Projects**         | [Excel/PowerPoint](https://ankitadasdata.github.io/)                                           | https://ankitadasdata.github.io/                                              | ---                                            |
 | **GitHub Webpage**        | [GitHub Webpage](https://ankitadasdata.github.io/Ankita-Das-Data.github.io/)                   | https://ankitadasdata.github.io/Ankita-Das-Data.github.io/                    | ---                                            |
@@ -27,7 +20,8 @@ I am also trying to track my skill progress
 | **Alteryx**               | [Alteryx Community](https://community.alteryx.com/t5/Certification-Exams/bd-p/product-certification) | https://community.alteryx.com/t5/Certification-Exams/bd-p/product-certification | ---                                            |
 | **KNIME**                 | [KNIME Hub](https://hub.knime.com/ankitadasdata)                                               | https://hub.knime.com/ankitadasdata                                           | ---                                            |
 | **SAS EG**                | [SAS Workbench](https://welcome.oda.sas.com/) \| [Learn SAS](https://learn.sas.com/my/)                         | Workbench: https://welcome.oda.sas.com/ \| Learn: https://learn.sas.com/my/          | ---                                            |
-| **Databricks**            | [Databricks](https://community.cloud.databricks.com/settings/user/profile?o=2514536658174028)  | https://community.cloud.databricks.com/settings/user/profile?o=2514536658174028 | ---                                            |
+| **Databricks**            | [Databricks](https://community.cloud.databricks.com/settings/user/profile?o=2514536658174028)  | https://accounts.cloud.databricks.com/?account_id=7939a7f2-6813-47a0-9554-f7e150be6dc2
+	AnkitaDasDataWorkspace1 	https://dbc-d9d42c99-86ee.cloud.databricks.com/?autoLogin=true&o=4465906656994114 | ---                                            |
 | **Snowflake**             | ---                                                                                           | ---                                                                          | ---                                            |
 | **Leetcode**              | [Leetcode Profile](https://leetcode.com/u/ankitadasdata/)                                      | https://leetcode.com/u/ankitadasdata                                          | ---                                            |
 | **DataCamp**              | [DataCamp Profile](https://www.datacamp.com/portfolio/ankitadasdata)                           | https://www.datacamp.com/portfolio/ankitadasdata                              | ---                                            |
@@ -41,7 +35,6 @@ I am also trying to track my skill progress
 | **VS Code (IDE)**         | [VS Code](https://code.visualstudio.com/) \| [My VS Code](https://app.vsaex.visualstudio.com/me?mkt=en-US)     | VS Code: https://code.visualstudio.com/ \| My VS Code: https://app.vsaex.visualstudio.com/me?mkt=en-US | ---                                            |
 | **Trailblaze**            | [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/ankitadasdata)                 | https://www.salesforce.com/trailblazer/ankitadasdata                          | ---                                            |
 | **Anaconda**              | [Anaconda Profile](https://anaconda.cloud/)                                                    | https://anaconda.cloud/                                                       | ---                                            |
-
 
 
 
