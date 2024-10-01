@@ -9,22 +9,13 @@ I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
 
 
-| SKILL      | LINK                                                                                       | CONTENTS |
-|------------------|---------------------------------------------------------------------------------------------|----------|
-| Tableau Public   | [Tableau Profile](https://public.tableau.com/app/profile/ankitadasdata/vizzes)              | ---      |
-| Power BI |                                                                             | ---      |
-| SQL   | --- | ---      |
-| Alteryx   | --- | ---      |
-| Knime   | --- | ---      |
-| Python   | --- | ---      |
-| Google Colab   | --- | ---      |
-| Google Cloud Platform  | --- | ---      |
-| AWS  | --- | ---      |
-| Azure | --- | ---      |
-| SAS EG | --- | ---      |
-| Snowflake | --- | ---      |
-| DevOps | --- | ---      |
-| Excel or PowerPoint   | --- | ---      |
+| **SKILL**                | **LINK**                                                                                       | **CONTENTS**                                                                                          |
+|--------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **LinkedIn**              | [LinkedIn Profile](https://www.linkedin.com/in/ankita-das-data/)                               | ---                                                                                           |
+| **Coursera**              | [Coursera Profile](https://www.coursera.org/learner/ankitadasdata)                             | ---                                                                                           |
+| **Udemy**                 | [Udemy Profile](https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/)              | ---                                                                                           |
+| **edX**                   | [edX Profile](https://home.edx.org/)                                                          | ---                                                                                            |
+
 
 
 Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
