@@ -10,39 +10,22 @@ I am also trying to track my skill progress
 
 
 | SKILL      | LINK                                                                                       | CONTENTS |
-|------------|---------------------------------------------------------------------------------------------|----------|
-| Tableau    | [Tableau Profile](https://public.tableau.com/app/profile/ankitadasdata/vizzes)              | ---      |
-| Profession | python-developer                                                                            | ---      |
-| Article    | About markup in the README                                                                  | ---      |
+|------------------|---------------------------------------------------------------------------------------------|----------|
+| Tableau Public   | [Tableau Profile](https://public.tableau.com/app/profile/ankitadasdata/vizzes)              | ---      |
+| Power BI |                                                                             | ---      |
+| SQL   | --- | ---      |
+| Alteryx   | --- | ---      |
+| Knime   | --- | ---      |
+| Python   | --- | ---      |
+| Google Colab   | --- | ---      |
+| Google Cloud Platform  | --- | ---      |
+| AWS  | --- | ---      |
+| Azure | --- | ---      |
+| SAS EG | --- | ---      |
+| Snowflake | --- | ---      |
+| DevOps | --- | ---      |
+| Excel or PowerPoint   | --- | ---      |
 
-
-
-
-○   Tableau Public -        
-
-○   Power BI -              
-                            
-○   Excel or PowerPoint -    
-
-○   SQL
-
-○   Alteryx
-
-○   Knime
-
-○   Python
-
-○   Google Cloud Platform - Google Colab - 
-
-○   AWS
-
-○   Azure
-
-○   SAS EG
-
-○   Snowflake
-
-○   DevOps
 
 Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
