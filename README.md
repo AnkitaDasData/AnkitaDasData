@@ -63,10 +63,11 @@ List of Profiles to track
 -----------------------------------------------------------------------
 | **SKILL**                | **LINK**                                                                                       | **Actual Link**                                                               | **CONTENTS**                                    |
 |--------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------|
-| **LinkedIn**              | [LinkedIn Profile](https://www.linkedin.com/in/ankita-das-data/)                               | https://www.linkedin.com/in/ankita-das-data/                                  | ---                                            |
-| **Coursera**              | [Coursera Profile](https://www.coursera.org/learner/ankitadasdata)                             | https://www.coursera.org/learner/ankitadasdata                                | ---                                            |
-| **Udemy**                 | [Udemy Profile](https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/)              | https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/              | ---                                            |
-| **edX**                   | [edX Profile](https://home.edx.org/)                                                          | https://home.edx.org/                                                         | ---                                            
+| **LinkedIn**              | [LinkedIn Profile](https://www.linkedin.com/in/ankita-das-data/)                               | https://www.linkedin.com/in/ankita-das-data/                                  | ---                                          |
+| **Coursera**              | [Coursera Profile](https://www.coursera.org/learner/ankitadasdata)                             | https://www.coursera.org/learner/ankitadasdata                                | ---                                          |
+| **Udemy**                 | [Udemy Profile](https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/)              | https://www.udemy.com/user/b4ef0d98-46ef-44ca-ad1f-91e8cf0d7089/              | ---                                          |
+| **edX**                   | [edX Profile](https://home.edx.org/)                                                          | https://home.edx.org/                                                         | ---                                          | 
+| DeepLearning.AI            | [DeepLearning.AI Profile](https://community.deeplearning.ai/u/ankitadasdata/activity)        |    https://community.deeplearning.ai/u/ankitadasdata/activity                | ---                                          |                      
 
 
 
