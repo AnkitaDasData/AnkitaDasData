@@ -69,7 +69,7 @@ List of Profiles to track
 | **edX**                   | [edX Profile](https://home.edx.org/)                                                          | https://home.edx.org/                                                         | ---                                          | 
 | DeepLearning.AI            | [DeepLearning.AI Profile](https://community.deeplearning.ai/u/ankitadasdata/activity)        |    https://community.deeplearning.ai/u/ankitadasdata/activity                | ---                                          |                      
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadasdata&layout=compact&theme=dark" alt=A1fred00-datascience />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadasdata&layout=compact&theme=dark" alt=A1fred00-datascience />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitadasdata&show_icons=true&locale=en&theme=dark" alt="A1fred00-datascience" /></p>
 
@@ -83,7 +83,7 @@ List of Profiles to track
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitadasdata&theme=aura_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitadasdata&theme=aura_dark" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadasdata&theme=one-dark"/>
 
 Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
