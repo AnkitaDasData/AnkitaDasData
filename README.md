@@ -69,7 +69,11 @@ List of Profiles to track
 | **edX**                   | [edX Profile](https://home.edx.org/)                                                          | https://home.edx.org/                                                         | ---                                          | 
 | DeepLearning.AI            | [DeepLearning.AI Profile](https://community.deeplearning.ai/u/ankitadasdata/activity)        |    https://community.deeplearning.ai/u/ankitadasdata/activity                | ---                                          |                      
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadasdata&layout=compact&theme=dark" alt=A1fred00-datascience />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitadasdata&show_icons=true&locale=en&theme=dark" alt="A1fred00-datascience" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitadasdata&theme=dark" alt="A1fred00-datascience" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/A1fred00-datascience">
