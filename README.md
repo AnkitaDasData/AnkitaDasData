@@ -70,7 +70,17 @@ List of Profiles to track
 | DeepLearning.AI            | [DeepLearning.AI Profile](https://community.deeplearning.ai/u/ankitadasdata/activity)        |    https://community.deeplearning.ai/u/ankitadasdata/activity                | ---                                          |                      
 
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/A1fred00-datascience">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitadasdata&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitadasdata&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitadasdata&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitadasdata&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitadasdata&theme=aura_dark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitadasdata&theme=one-dark"/>
 
 Creative Commons License [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
