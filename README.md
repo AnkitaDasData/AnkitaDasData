@@ -134,6 +134,7 @@ https://ankitadasdata.github.io/Ankita-Das-Data.github.io/
 | **AWS SageMaker**         | [AWS SageMaker](https://ca-central-1.console.aws.amazon.com/console/services?region=ca-central-1#) | https://us-east-1.console.aws.amazon.com/billing/home#/freetier               | Python/ML                                    |
 | **IBM Watson Studio**     | Build, train, and deploy machine learning models using Python on IBM’s platform                | IBM Watson Studio                                                            | Python/ML                                    |
 | **LinkTree**              | [LinkTree](https://linktr.ee/AnkitaDasData)                                                                | https://linktr.ee/AnkitaDasData                                                            | Profile Hub                                  |
+| **Medium**                | ankitadasdata.medium.com                                                                        |                                                                                                        | Profile                                    |
 
 
 List of Profiles to track
