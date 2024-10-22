@@ -3,6 +3,14 @@ Hi, I’m @AnkitaDasData
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+building+a+profile+to+showcase;Please+have+patience)](https://git.io/typing-svg)
 
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
+| **Category**                  | **Includes**                                                                                                                                    | **Subset of**            |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| **Data Science**               | Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Data Analytics, Data Visualization, BI, Statistical Analysis, Big Data   | N/A                      |
+| **Artificial Intelligence (AI)**| Machine Learning (ML), NLP, Computer Vision (CV), Expert Systems, Robotics, Knowledge Representation, Planning, Automated Reasoning            | Data Science             |
+| **Machine Learning (ML)**      | Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, Reinforcement Learning (RL), Neural Networks (NN), Deep Learning (DL), etc.| Artificial Intelligence   |
+| **Reinforcement Learning (RL)**| Value-Based Methods, Policy-Based Methods, Actor-Critic Methods, Model-Free RL, Model-Based RL, MDP, Temporal Difference Learning                | Machine Learning          |
+| **Natural Language Processing (NLP)**| Large Language Models (LLMs), Text Classification, Sentiment Analysis, Named Entity Recognition, Machine Translation, Text Summarization | Artificial Intelligence   |
+| **Large Language Models (LLMs)**| Transformer-based Models (GPT, BERT, T5), Contextual Embeddings, Fine-Tuning, Zero-Shot/Few-Shot Learning, Attention Mechanisms                | NLP, AI, ML              |
 
 # Ankita Das
 
