@@ -5,7 +5,7 @@ Hi, I’m @AnkitaDasData
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
 | **Category**                  | **Includes**                                                                                                                                    | **Subset of**            |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| **Data Science**               | Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Data Analytics, Data Visualization, BI, Statistical Analysis, Big Data   | N/A                      |
+| **Data Science**               | Artificial Intelligence (AI), Machine Learning (ML), Data Engineering, Data Analytics, Data Visualization, BI, Statistical Analysis, Big Data   |                       |
 | **Artificial Intelligence (AI)**| Machine Learning (ML), NLP, Computer Vision (CV), Expert Systems, Robotics, Knowledge Representation, Planning, Automated Reasoning            | Data Science             |
 | **Machine Learning (ML)**      | Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, Reinforcement Learning (RL), Neural Networks (NN), Deep Learning (DL), etc.| Artificial Intelligence   |
 | **Reinforcement Learning (RL)**| Value-Based Methods, Policy-Based Methods, Actor-Critic Methods, Model-Free RL, Model-Based RL, MDP, Temporal Difference Learning                | Machine Learning          |
