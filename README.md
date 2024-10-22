@@ -4,6 +4,73 @@ Hi, I’m @AnkitaDasData
 
 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/ankita-das-data/
 
+# Ankita Das
+
+Toronto, Ontario | +1 437-775-9159 | AnkitaDas345@gmail.com | [LinkedIn](www.linkedin.com/in/ankita-das-data)
+
+---
+
+## Senior Data Analyst
+
+Over 9 years of experience deriving actionable insights to address business challenges. Expertise in understanding data requirements and developing business insights for strategic decisions. Demonstrated proficiency in audit and risk analysis for strategy and financial services, with proven ability to manage risk reporting. Adept at aligning processes, regulatory requirements, and compliance by creating articulate executive reports.
+
+---
+
+## Skills
+
+| Business Analytics, Data Visualization, Data Analysis | Power BI, Tableau |
+| Data Wrangling, Manipulation, Data Mining, and Advanced Analytics | Python, Alteryx, Knime |
+| Programming Languages | Python (Analysis, Automation, Machine Learning), SQL (Querying, Data Management) |
+| Other Tools | Microsoft Office Suite (Word, Excel, PowerPoint, Visio, SharePoint), Jupyter Notebook, JIRA |
+| Professional Skills | Analytical, Critical, Strategic Thinking, Problem-Solving, Leadership, Management, Developing Collaborative Relationships, Cross-Functional Team Coordination, Strategic Communication, Management Reporting, Storytelling, Stakeholder Engagement |
+
+---
+
+## Work Experience
+
+| **Employer** | **Position** | **Duration** | **Key Responsibilities** |
+| --- | --- | --- | --- |
+| **Cargill Business Services, India** | Data Analyst – Corporate Audit Data and Analytics | August 2021 – February 2024 | - Developed analytical methodologies for 40+ audit and risk assessment projects using Power BI. <br> - Automated exploratory data analysis using Python, achieving 40% faster results. <br> - Conducted data training for auditors in 5+ teams. |
+| **J.P. Morgan Chase & Co, India** | Associate – Strategic Analytics | September 2018 – August 2021 | - Analyzed business processes and data to identify areas for internal audit. <br> - Built dashboards with loading times under 4 seconds. <br> - Evaluated complex data relationships using SQL for data integrity. |
+| | Senior Risk Analyst – Risk Management Reporting for Consumer and Community Banking | | - Developed Tableau reports using Alteryx workflows for risk indicators reporting. <br> - Planned automation efforts to ensure consistent data flow for visualization. |
+| **Infosys Limited, India** | Technology Analyst – Financial Data Report Development Consultant for VISA Merchant Sales | May 2014 – September 2018 | - Collaborated with stakeholders to collect data and create reports. <br> - Developed Tableau reports ensuring usability and performance management. |
+| | Senior Systems Engineer – EDW BI Support and Enhancement for FedEx TNT Express | | - Managed incidents within SLAs, resolving Teradata EDW and SQL issues. <br> - Documented changes using MS Visio and supported ETL process implementation. |
+| | Systems Engineer – Report Testing | | - Verified and modified SAS VA reports for depot key performance indicators. |
+
+---
+
+## Education
+
+| **Degree** | **Institution** | **Year** |
+| --- | --- | --- |
+| **Master of Science in Data Science** | Liverpool John Moores University, England | 2023 – 2024 |
+| **Post Graduate Diploma in Data Science** | International Institute of Information Technology Bangalore, India | 2019 – 2021 |
+| **Bachelor of Technology in Information Technology** | Biju Patnaik University of Technology, Odisha, India | 2010 – 2014 |
+
+---
+
+## Certifications
+
+| **Certification** | **Provider** |
+| --- | --- |
+| IBM Data Science Professional | IBM/Coursera |
+| Google Advanced Data Analytics Professional | Google/Coursera |
+| Google Cybersecurity Professional | Google/Coursera |
+| Google Project Management Professional | Google/Coursera |
+| Microsoft Power BI Data Analyst Professional | Microsoft/Coursera |
+| Tableau Business Intelligence Analyst Professional | Tableau Learning Partner/Coursera |
+
+---
+
+## Languages
+
+| **Language** | **Proficiency** |
+| --- | --- |
+| **English** | Fluent |
+| **French** | Intermediate (A1-B2, Alliance Française, Bangalore, 2020 – 2022; TCF B1) |
+
+
+
 I am building a profile to showcase my experience
 I am also trying to track my skill progress
 -----------------------------------------------------------------------------------
