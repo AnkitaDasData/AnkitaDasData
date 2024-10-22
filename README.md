@@ -18,6 +18,8 @@ Over 9 years of experience deriving actionable insights to address business chal
 
 ## Skills
 
+| **Category** | **Details** |
+| --- | --- |
 | Business Analytics, Data Visualization, Data Analysis | Power BI, Tableau |
 | Data Wrangling, Manipulation, Data Mining, and Advanced Analytics | Python, Alteryx, Knime |
 | Programming Languages | Python (Analysis, Automation, Machine Learning), SQL (Querying, Data Management) |
@@ -28,14 +30,14 @@ Over 9 years of experience deriving actionable insights to address business chal
 
 ## Work Experience
 
-| **Employer** | **Position** | **Duration** | **Key Responsibilities** |
+| **Employer** | **Duration** | **Position** | **Key Responsibilities** |
 | --- | --- | --- | --- |
-| **Cargill Business Services, India** | Data Analyst – Corporate Audit Data and Analytics | August 2021 – February 2024 | - Developed analytical methodologies for 40+ audit and risk assessment projects using Power BI. <br> - Automated exploratory data analysis using Python, achieving 40% faster results. <br> - Conducted data training for auditors in 5+ teams. |
-| **J.P. Morgan Chase & Co, India** | Associate – Strategic Analytics | September 2018 – August 2021 | - Analyzed business processes and data to identify areas for internal audit. <br> - Built dashboards with loading times under 4 seconds. <br> - Evaluated complex data relationships using SQL for data integrity. |
-| | Senior Risk Analyst – Risk Management Reporting for Consumer and Community Banking | | - Developed Tableau reports using Alteryx workflows for risk indicators reporting. <br> - Planned automation efforts to ensure consistent data flow for visualization. |
-| **Infosys Limited, India** | Technology Analyst – Financial Data Report Development Consultant for VISA Merchant Sales | May 2014 – September 2018 | - Collaborated with stakeholders to collect data and create reports. <br> - Developed Tableau reports ensuring usability and performance management. |
-| | Senior Systems Engineer – EDW BI Support and Enhancement for FedEx TNT Express | | - Managed incidents within SLAs, resolving Teradata EDW and SQL issues. <br> - Documented changes using MS Visio and supported ETL process implementation. |
-| | Systems Engineer – Report Testing | | - Verified and modified SAS VA reports for depot key performance indicators. |
+| **Cargill Business Services, India** | August 2021 – February 2024 | Data Analyst – Corporate Audit Data and Analytics | - Developed analytical methodologies for 40+ audit and risk assessment projects using Power BI. <br> - Automated exploratory data analysis using Python, achieving 40% faster results. <br> - Conducted data training for auditors in 5+ teams. |
+| **J.P. Morgan Chase & Co, India** | September 2018 – August 2021 | Associate – Strategic Analytics | - Analyzed business processes and data to identify areas for internal audit. <br> - Built dashboards with loading times under 4 seconds. <br> - Evaluated complex data relationships using SQL for data integrity. |
+| | | Senior Risk Analyst – Risk Management Reporting for Consumer and Community Banking | - Developed Tableau reports using Alteryx workflows for risk indicators reporting. <br> - Planned automation efforts to ensure consistent data flow for visualization. |
+| **Infosys Limited, India** | May 2014 – September 2018 | Technology Analyst – Financial Data Report Development Consultant for VISA Merchant Sales | - Collaborated with stakeholders to collect data and create reports. <br> - Developed Tableau reports ensuring usability and performance management. |
+| | | Senior Systems Engineer – EDW BI Support and Enhancement for FedEx TNT Express | - Managed incidents within SLAs, resolving Teradata EDW and SQL issues. <br> - Documented changes using MS Visio and supported ETL process implementation. |
+| | | Systems Engineer – Report Testing | - Verified and modified SAS VA reports for depot key performance indicators. |
 
 ---
 
@@ -68,7 +70,6 @@ Over 9 years of experience deriving actionable insights to address business chal
 | --- | --- |
 | **English** | Fluent |
 | **French** | Intermediate (A1-B2, Alliance Française, Bangalore, 2020 – 2022; TCF B1) |
-
 
 
 I am building a profile to showcase my experience
